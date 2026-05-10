@@ -50,3 +50,13 @@ int main() {
 
     return 0;
 }
+
+
+// Commmands 
+// sudo apt update
+
+// sudo apt install gcc
+
+// gcc sum.c -fopenmp -o sum
+
+// ./sum
